@@ -11,4 +11,7 @@ McCulloch and Pitts make certain assumptions that are helpful to note:
 2. A certain fixed number of synapses must be excited within the period of latent addition in order to excite a neuron at any time.
 3. The structure of the net does not change with time.
 
-Notably the last assumption is very different to more recent architectures of machine learning models that allow a dynamic architecture based on results from backpropagation. 
+Notably the last assumption is very different to more recent architectures of machine learning models that allow a dynamic architecture of weights and neuron biases based on results from backpropagation. 
+
+## Limitations
+Though this is a mathematical model of the function of neurons and can allow for computation with the use of logic gates, the most important feature of learning (the adustment of weights) is still absent and must be manually input and tuned. The next question was if a machine could lear its own weights and adjust them programmatically.
