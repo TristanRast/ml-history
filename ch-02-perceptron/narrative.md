@@ -1,0 +1,8 @@
+# The Perceptron
+Frank Rosenblatt, a psychologist by trade, found an answer to the question of teaching a machine how to programmatically alter its own weights in *1957* at Cornell. Frank had been working at the Navy-funded Cornell Aeronautical Laboratory while undergoing his research into the intersection of machine and human intelligence. He managed to make a breakthrough on how to allow intelligent machines to learn. This breakthrough was known as **The Perceptron**.
+
+The Perceptron was the first *artificial neural network* that could actually learn from data. Unlike the MCP Neurons from last chapter, the perceptron adjusted its own weights through a learning rule: show it labeled examples of data, and for each wrong answer nudge the weights in the right direction.
+
+The day after Rosenblatt showcased the prototype at a Navy research showcase, the New York Times wrote that the Navy had revealed "the embryo of an electronic computer that it expects will be able to walk, talk, see, write, reproduce itself, and be conscious of its existence". Rosenblatt himself predicted that "later perceptrons will be able to recognize people and call out their names" and perform real-time language translation. The hype around the perceptron during the techological optimism of the 1950's was incredible. However, the perceptron and other prototypes following its lead would remain stuck on toy problems like distinguishing between 2 types of shapes and other binary classification problems.
+
+Following the Perceptron's debut, Rosenblatt would move on to research into transferring learning from one biological speciments into others with brain tissue transfers in rats. 
